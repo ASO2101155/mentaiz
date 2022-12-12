@@ -6,4 +6,6 @@ mentaiz(めんたいず)
 4. 森川虎之介:PHP
 5. 交野成彦:データベース
 
-URL:http://cool-saga-5604.pupu.jp/sample/toppage/toppage.html
+動作デモURL:http://cool-saga-5604.pupu.jp/sample/toppage/toppage.html
+
+figmaURL:https://www.figma.com/file/KPrqTGEZ91GmTqY49a1gVR/Untitled?node-id=0%3A1&t=wMuj2L8Sfnn5d4cm-0
